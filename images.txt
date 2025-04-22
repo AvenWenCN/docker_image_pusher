@@ -1,2 +1,1 @@
-2495683788/tmatrixcode:latest
 elasticsearch:7.17.28
