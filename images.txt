@@ -1,2 +1,2 @@
 2495683788/tmatrixcode:latest
-nginx
+elasticsearch:7.17.28
