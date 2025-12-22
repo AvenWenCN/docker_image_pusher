@@ -1,1 +1,1 @@
-sonatype/nexus3
+redis:7.2.11
